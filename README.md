@@ -1,2 +1,2 @@
 # restaurant
-Restaurant template in html using bootstrap
+Restaurant template using html and bootstrap framework.
