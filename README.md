@@ -1,2 +1,3 @@
 # restaurant
-Restaurant template in html using bootstrap and calender
+
+Restaurant template using html and bootstrap framework.
